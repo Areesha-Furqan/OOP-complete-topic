@@ -10,7 +10,7 @@ By the end, you should be able to *explain* this topic in your own words
 
 ## Table of Contents
 
-0. [Before We Start — What is OOP and why it exists](#-before-we-start_what-is-oop-and-why-it-exists)
+0. Before We Start — What is OOP and why it exists
 1. What is a Class?
 2. What is an Object?
 3. The `__init__` method and `self`
