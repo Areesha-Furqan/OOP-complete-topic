@@ -1055,15 +1055,3 @@ re-read.
 
 ---
 
-## What's Next?
-
-Once you're confident with everything above, the natural next topics in
-OOP are:
-- **Inheritance** — building new classes from existing ones (`class Dog(Animal):`)
-- **Polymorphism** — different classes responding differently to the same method call
-- **Abstraction** — abstract base classes (`abc` module), designing clean interfaces
-
-Master this guide first — inheritance and polymorphism will feel easy once
-classes, objects, `self`, and encapsulation are second nature to you.
-
-Good luck — you're building a real foundation here, not just memorizing syntax.
